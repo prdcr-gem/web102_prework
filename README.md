@@ -36,6 +36,8 @@ GIF created with Kap
 
 Describe any challenges encountered while building the app.
 
+The challenges I have faced were being meticulous about checking if the images were on the right path so they would be able to show correctly.
+
 ## License
 
     Copyright 2025 Geraldine Bongato
